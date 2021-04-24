@@ -14,9 +14,9 @@ echo
 sleep 2
 echo $yellow"Silahkan pilih Menu yang Tersedia"
 echo
-echo $cyan"1.(Jaringan 10G"
+echo $cyan"1.)jaringan super cepat!"
 echo
-echo $blue"0.)Back !!"
+echo $blue"0.)Kembali"
 echo
 echo $white
 read -p "Pilih Yang Mana? : " bro
